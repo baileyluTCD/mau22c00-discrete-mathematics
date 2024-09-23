@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "e0ad6bb758011d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ab083dfaceca0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6d2685d3db62fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/Equivalence Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba2d38fed357a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/Equivalence Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99cdfb58e91f2308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/Symmetric Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03c2603b3420d77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/Equivalence Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba1ab5d421bb5db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/Equivalence Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b74b03772187d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "44af9874eb79c9dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b444c68e05e358b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f31e9a56bb0d0a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93e8a8dc4ad97da2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4228a63daf49f420",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b94d9f2387cb000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84ea9b6608f08dc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Relations/Equivalence Relation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa38646821a3a2cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Relations/Equivalence Relation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2059c4e70508d450",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9a2175428d2a5df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Relations/Equivalence Relation.md"
+              }
+            }
+          },
+          {
+            "id": "3cbfc21e90491725",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7b444c68e05e358b",
+  "lastOpenFiles": [
+    "Relations/Reflexive Relation.md",
+    "Relations/Equivalence Relation.md",
+    "Relations/Relation.md",
+    "Relations/Transitive Relation.md",
+    "Relations/Symmetric Relation.md",
+    "Relations",
+    "Set Theory/Set Operators/Cartesian Product.md",
+    "Set Theory/Set Operators/Intersection.md",
+    "Set Theory/Power Set.md",
+    "Set Theory/Set Operators/Cartesian Product",
+    "Set Theory/Set Operators/Cartesian Product/Ordered Pair.md",
+    "Set Theory/Set Operators/Union.md",
+    "Module Info/Assessment.md",
+    "Set Theory/Set Operators/Compliment.md",
+    "Involution.md",
+    "Set Theory/Set Operators/Subset.md",
+    "Set Theory/Venn Diagram.md",
+    "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
+    "Set Theory/Set Operators/Compliment Images",
+    "Set Theory/Set Operators/Compliment Images/Compliment B A.png",
+    "Set Theory/Set Operators/Compliment Images/Compliment A B.png",
+    "Set Theory/Set Operators/Union Image.png",
+    "Set Theory/Set Operators/Intersection Image.png",
+    "Set Theory/Universal Set.md",
+    "Statements/Statement Operations/Contrapositive.md",
+    "Set Theory/Set.md",
+    "Set Theory/Disjoint set.md",
+    "Set Theory/Set Operators/In.md",
+    "Set Theory/Set Theory.md",
+    "Set Theory/Set Operators",
+    "Set Theory/Set Construction",
+    "Set Theory/Number Sets",
+    "Set Theory/Object (Set Theory).md",
+    "Set Theory/Number Sets/Natural Numbers.md",
+    "Set Theory/Set Construction/Enumeration.md",
+    "Set Theory/Empty Set.md",
+    "Set Theory/Number Sets/Real Numbers.md",
+    "Set Theory",
+    "Quantifiers",
+    "Statements/Statement Operations",
+    "Proofs"
+  ]
+}

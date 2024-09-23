@@ -1,0 +1,1 @@
+A self evident truth so basic that it is accepted to be true by everyone without proof required

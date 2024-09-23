@@ -1,0 +1,1 @@
+The **universal [[set]]** is the [[set]] of which all others are [[Subset|subsets]].

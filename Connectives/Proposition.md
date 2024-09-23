@@ -1,0 +1,1 @@
+A **proposition** is any declarative sentence which is either `true` **or** `false`.
