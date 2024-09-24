@@ -1,3 +1,3 @@
-[[Set|Sets]] can be considered to be _disjoint_ if their [[Union|union]] is the [[Empty Set|empty set]]. 
+[[Set|Sets]] can be considered to be _disjoint_ if their [[intersection]] is the [[Empty Set|empty set]]. 
 
-If $A \cup B = \emptyset$ , $A$ and $B$ are _disjoint [[Set|sets]]_.
+If $A \cap B = \emptyset$ , $A$ and $B$ are _disjoint [[Set|sets]]_.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Notation
+---
 The [[Subset|subset]] of a [[Cartesian Product|cartesian product]] is known as a _relation_.
 
 A **relation** with an [[Ordered Pair|ordered pair]] [[set]] as an output is known as a _binary relation_ (i.e. contains **two** [[Object (Set Theory)|elements]]).

@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relations/Equivalence Relation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eba2d38fed357a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/Equivalence Relation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99cdfb58e91f2308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/Symmetric Relation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03c2603b3420d77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/Equivalence Relation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba1ab5d421bb5db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/Equivalence Relation.md",
+                "file": "Relations/Equivalence Class.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relations/Equivalence Relation.md",
+                "file": "Relations/Equivalence Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relations/Equivalence Relation.md",
+                "file": "Relations/Equivalence Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relations/Equivalence Relation.md"
+                "file": "Relations/Equivalence Class.md"
               }
             }
           },
@@ -204,13 +155,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b444c68e05e358b",
+  "active": "3cbfc21e90491725",
   "lastOpenFiles": [
-    "Relations/Reflexive Relation.md",
     "Relations/Equivalence Relation.md",
-    "Relations/Relation.md",
-    "Relations/Transitive Relation.md",
+    "Set Theory/Set Operators/Compliment.md",
+    "Set Theory/Involution.md",
+    "Connectives/Proposition.md",
+    "Connectives/Propositional Logic.md",
+    "Relations/Equivalence Class.md",
     "Relations/Symmetric Relation.md",
+    "Relations/Partition.md",
+    "Relations/Relation.md",
+    "Set Theory/Disjoint set.md",
+    "Relations/Reflexive Relation.md",
+    "Relations/Transitive Relation.md",
     "Relations",
     "Set Theory/Set Operators/Cartesian Product.md",
     "Set Theory/Set Operators/Intersection.md",
@@ -219,8 +177,6 @@
     "Set Theory/Set Operators/Cartesian Product/Ordered Pair.md",
     "Set Theory/Set Operators/Union.md",
     "Module Info/Assessment.md",
-    "Set Theory/Set Operators/Compliment.md",
-    "Involution.md",
     "Set Theory/Set Operators/Subset.md",
     "Set Theory/Venn Diagram.md",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
@@ -232,17 +188,12 @@
     "Set Theory/Universal Set.md",
     "Statements/Statement Operations/Contrapositive.md",
     "Set Theory/Set.md",
-    "Set Theory/Disjoint set.md",
     "Set Theory/Set Operators/In.md",
     "Set Theory/Set Theory.md",
     "Set Theory/Set Operators",
     "Set Theory/Set Construction",
     "Set Theory/Number Sets",
     "Set Theory/Object (Set Theory).md",
-    "Set Theory/Number Sets/Natural Numbers.md",
-    "Set Theory/Set Construction/Enumeration.md",
-    "Set Theory/Empty Set.md",
-    "Set Theory/Number Sets/Real Numbers.md",
     "Set Theory",
     "Quantifiers",
     "Statements/Statement Operations",
