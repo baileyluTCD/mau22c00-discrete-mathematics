@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relations/Equivalence Class.md",
+                "file": "Relations/Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c22292f77486bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/Ordering/Partial Order.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "201a11209a9cd914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/Ordering/Partial Order.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f86b738504a5a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47dfe0a61348cfbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6317e1c63ffc3e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb9b1d15f83ee03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Codomain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -48,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Statement_Operation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +153,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3cbfc21e90491725",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "84ea9b6608f08dc3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relations/Equivalence Class.md",
+                "file": "Functions/Codomain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relations/Equivalence Class.md",
+                "file": "Functions/Codomain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +206,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relations/Equivalence Class.md"
+                "file": "Functions/Codomain.md"
               }
             }
-          },
-          {
-            "id": "3cbfc21e90491725",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,48 +227,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cbfc21e90491725",
+  "active": "cfb9b1d15f83ee03",
   "lastOpenFiles": [
-    "Relations/Equivalence Relation.md",
+    "Functions/Range.md",
+    "Functions/Domain.md",
+    "Functions/Codomain.md",
+    "Functions/Function.md",
+    "Functions/Function Example Image.png",
+    "Functions",
+    "Discrete Mathematics.md",
+    "Relations/Ordering/Partial Order.md",
+    "Relations/Relation Types",
+    "Relations/Ordering",
+    "Relations/Ordering/Total Order.md",
+    "Relations/Relation Types/Equivalence Relation.md",
+    "Relations/Relation Types/Symmetric Relation.md",
+    "Relations/Relation Types/Anti-Symmetric Relation.md",
+    "Relations/Relation Types/Transitive Relation.md",
+    "Relations/Relation Types/Reflexive Relation.md",
+    "Relations/Equivalence Class.md",
+    "Set Theory/Set Operators/Cartesian Product.md",
+    "Relations/Relation.md",
     "Set Theory/Set Operators/Compliment.md",
     "Set Theory/Involution.md",
     "Connectives/Proposition.md",
     "Connectives/Propositional Logic.md",
-    "Relations/Equivalence Class.md",
-    "Relations/Symmetric Relation.md",
     "Relations/Partition.md",
-    "Relations/Relation.md",
     "Set Theory/Disjoint set.md",
-    "Relations/Reflexive Relation.md",
-    "Relations/Transitive Relation.md",
     "Relations",
-    "Set Theory/Set Operators/Cartesian Product.md",
     "Set Theory/Set Operators/Intersection.md",
     "Set Theory/Power Set.md",
     "Set Theory/Set Operators/Cartesian Product",
     "Set Theory/Set Operators/Cartesian Product/Ordered Pair.md",
     "Set Theory/Set Operators/Union.md",
     "Module Info/Assessment.md",
-    "Set Theory/Set Operators/Subset.md",
-    "Set Theory/Venn Diagram.md",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
     "Set Theory/Set Operators/Compliment Images",
     "Set Theory/Set Operators/Compliment Images/Compliment B A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment A B.png",
     "Set Theory/Set Operators/Union Image.png",
     "Set Theory/Set Operators/Intersection Image.png",
-    "Set Theory/Universal Set.md",
-    "Statements/Statement Operations/Contrapositive.md",
-    "Set Theory/Set.md",
-    "Set Theory/Set Operators/In.md",
-    "Set Theory/Set Theory.md",
     "Set Theory/Set Operators",
     "Set Theory/Set Construction",
     "Set Theory/Number Sets",
-    "Set Theory/Object (Set Theory).md",
-    "Set Theory",
-    "Quantifiers",
-    "Statements/Statement Operations",
-    "Proofs"
+    "Set Theory"
   ]
 }

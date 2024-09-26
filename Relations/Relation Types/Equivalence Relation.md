@@ -1,6 +1,7 @@
 ---
 tags:
   - Notation
+  - Relation
 ---
 An _equivalence [[relation]]_ on $A$ is a [[relation]] that is 
 1. [[Reflexive Relation|Reflexive]]
