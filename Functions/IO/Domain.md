@@ -15,11 +15,14 @@ public static void main(String[] args) {
 
 	// "myFunction" is applied to a
 	// b is now the "codomain"
+	// as anything unknown could happen in a, b is a large set
 	int[] b = myFunction(a);
 }
 
 int[] myFunction(int[] a) {
 	// Do stuff
+
+	// The values returned is the "range"
 }
 
 ```

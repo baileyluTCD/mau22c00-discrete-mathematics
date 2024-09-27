@@ -1,0 +1,1 @@
+A _boolean [[function]]_ is a [[function]] which has $A$ as it's [[Domain]] but a the [[Truthy Set|truthy set]] as it's [[Codomain]].
