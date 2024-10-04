@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95ab083dfaceca0c",
+        "id": "619fca8befe7c70d",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d2685d3db62fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/Relation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47c22292f77486bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/Ordering/Partial Order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "201a11209a9cd914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/Ordering/Partial Order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f86b738504a5a34",
+            "id": "e8a02538c46229ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47dfe0a61348cfbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/Function Inversion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/Function Inversion.md",
+                "file": "Functions/Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions/Function Inversion.md",
+                "file": "Functions/Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions/Function Inversion.md"
+                "file": "Functions/Function.md"
               }
             }
           }
@@ -203,18 +154,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47dfe0a61348cfbe",
+  "active": "e8a02538c46229ff",
   "lastOpenFiles": [
-    "Functions/Graph of a function.md",
-    "Functions/Function.md",
-    "Functions/Properties/Bijective.md",
+    "Set Theory/Object (Set Theory).md",
+    "Set Theory/Involution.md",
+    "Set Theory/Disjoint set.md",
+    "Abstract Algebra/Associative.md",
+    "Abstract Algebra/Semigroup.md",
+    "Abstract Algebra/Commutative.md",
+    "Abstract Algebra/Binary Operation.md",
+    "Discrete Mathematics.md",
+    "Untitled.canvas",
+    "Abstract Algebra/Abstract Algebra.md",
+    "Relations/Relation.md",
+    "Abstract Algebra",
+    "Proofs/Proof By Induction.md",
     "Functions/Properties/Surjective.md",
+    "Functions/Function.md",
+    "Functions/Pigeonhole Principle.md",
+    "Functions/Pigeonhole Principle Image.png",
+    "Functions/Function Inversion.md",
+    "Functions/Graph of a function.md",
+    "Functions/Properties/Bijective.md",
     "Functions/Properties/Injective.md",
     "Functions/Properties",
     "Functions/IO/Range.md",
     "Functions/Composition/Function Composition.md",
     "Functions/Composition/Composition Operator.md",
-    "Functions/Function Inversion.md",
     "Functions/IO",
     "Functions/Composition",
     "Functions/Boolean Function.md",
@@ -224,21 +190,9 @@
     "Functions/IO/Domain.md",
     "Functions/Function Example Image.png",
     "Functions",
-    "Discrete Mathematics.md",
     "Relations/Ordering/Partial Order.md",
     "Relations/Relation Types",
     "Relations/Ordering",
-    "Relations/Ordering/Total Order.md",
-    "Relations/Relation Types/Equivalence Relation.md",
-    "Relations/Relation Types/Symmetric Relation.md",
-    "Relations/Relation Types/Anti-Symmetric Relation.md",
-    "Relations/Relation Types/Transitive Relation.md",
-    "Relations/Relation Types/Reflexive Relation.md",
-    "Relations/Equivalence Class.md",
-    "Set Theory/Set Operators/Cartesian Product.md",
-    "Relations/Relation.md",
-    "Set Theory/Set Operators/Compliment.md",
-    "Set Theory/Involution.md",
     "Relations",
     "Set Theory/Set Operators/Cartesian Product",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
@@ -246,7 +200,6 @@
     "Set Theory/Set Operators/Compliment Images/Compliment B A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment A B.png",
     "Set Theory/Set Operators/Union Image.png",
-    "Set Theory/Set Operators/Intersection Image.png",
-    "Set Theory/Set Operators"
+    "Set Theory/Set Operators/Intersection Image.png"
   ]
 }
