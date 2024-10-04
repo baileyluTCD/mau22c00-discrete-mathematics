@@ -8,23 +8,86 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:",
+      "query": "path:Functions  ",
       "color": {
         "a": 1,
         "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Connectives  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Abstract Algebra\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Module Info\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Proofs  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Quantifiers  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Relations  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"Set Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:Statements  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "file:\"Discrete Mathematics\"",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1.20530145530146,
   "collapse-forces": false,
-  "centerStrength": 0.225571725571726,
-  "repelStrength": 10,
+  "centerStrength": 0.483367983367983,
+  "repelStrength": 12.4116424116424,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.16767819087389677,
+  "linkDistance": 122,
+  "scale": 0.19435179370002525,
   "close": true
 }

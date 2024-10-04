@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions/Function.md",
+                "file": "Abstract Algebra/Associative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "625734e4a4e8590b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbfdfe9f09fd365c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/Function.md",
+                "file": "Discrete Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions/Function.md",
+                "file": "Discrete Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions/Function.md"
+                "file": "Discrete Mathematics.md"
               }
             }
           }
@@ -154,15 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8a02538c46229ff",
+  "active": "fbfdfe9f09fd365c",
   "lastOpenFiles": [
+    "Abstract Algebra/Semigroup.md",
+    "Abstract Algebra/Associative.md",
+    "Abstract Algebra/Binary Operation.md",
+    "Functions/Function.md",
     "Set Theory/Object (Set Theory).md",
     "Set Theory/Involution.md",
     "Set Theory/Disjoint set.md",
-    "Abstract Algebra/Associative.md",
-    "Abstract Algebra/Semigroup.md",
     "Abstract Algebra/Commutative.md",
-    "Abstract Algebra/Binary Operation.md",
     "Discrete Mathematics.md",
     "Untitled.canvas",
     "Abstract Algebra/Abstract Algebra.md",
@@ -170,7 +189,6 @@
     "Abstract Algebra",
     "Proofs/Proof By Induction.md",
     "Functions/Properties/Surjective.md",
-    "Functions/Function.md",
     "Functions/Pigeonhole Principle.md",
     "Functions/Pigeonhole Principle Image.png",
     "Functions/Function Inversion.md",
