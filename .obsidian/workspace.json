@@ -13,31 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/Associative.md",
+                "file": "Abstract Algebra/Semigroup.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "625734e4a4e8590b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "fbfdfe9f09fd365c",
+            "id": "651c1fc02d3a366e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics.md",
+                "file": "Abstract Algebra/General Associative Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c3941162b0ec288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Algebra/Identity Element.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f54fafe24569c107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Algebra/Monoid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e0c88df9938ca34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Algebra/Identity Element.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics.md",
+                "file": "Abstract Algebra/Identity Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics.md",
+                "file": "Abstract Algebra/Identity Element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Mathematics.md"
+                "file": "Abstract Algebra/Identity Element.md"
               }
             }
           }
@@ -169,52 +200,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fbfdfe9f09fd365c",
+  "active": "3cbfc21e90491725",
   "lastOpenFiles": [
     "Abstract Algebra/Semigroup.md",
+    "Abstract Algebra/Monoid.md",
+    "Abstract Algebra/Commutative Monoid.md",
+    "Abstract Algebra/Identity Element.md",
+    "Abstract Algebra/General Associative Law.md",
     "Abstract Algebra/Associative.md",
-    "Abstract Algebra/Binary Operation.md",
-    "Functions/Function.md",
-    "Set Theory/Object (Set Theory).md",
-    "Set Theory/Involution.md",
-    "Set Theory/Disjoint set.md",
-    "Abstract Algebra/Commutative.md",
     "Discrete Mathematics.md",
+    "Statements/Predicate.md",
+    "Statements/Hypothesis.md",
+    "Statements/Statement Operations/Inverse.md",
+    "Statements/Statement Operations/Converse.md",
+    "Statements/Statement Operations/Contrapositive.md",
+    "Set Theory/Venn Diagram.md",
+    "Set Theory/Truthy Set.md",
+    "Set Theory/Set Theory.md",
+    "Set Theory/Power Set.md",
+    "Set Theory/Involution.md",
+    "Set Theory/Empty Set.md",
+    "Set Theory/Disjoint set.md",
+    "Set Theory/Set Operators/Union.md",
+    "Set Theory/Set Operators/Subset.md",
+    "Set Theory/Set Operators/Intersection.md",
+    "Set Theory/Set Operators/In.md",
+    "Set Theory/Set Operators/Compliment.md",
+    "Set Theory/Set Operators/Cartesian Product.md",
+    "Set Theory/Set Operators/Cartesian Product/Ordered Pair.md",
+    "New folder",
     "Untitled.canvas",
-    "Abstract Algebra/Abstract Algebra.md",
-    "Relations/Relation.md",
     "Abstract Algebra",
-    "Proofs/Proof By Induction.md",
-    "Functions/Properties/Surjective.md",
-    "Functions/Pigeonhole Principle.md",
     "Functions/Pigeonhole Principle Image.png",
-    "Functions/Function Inversion.md",
-    "Functions/Graph of a function.md",
-    "Functions/Properties/Bijective.md",
-    "Functions/Properties/Injective.md",
     "Functions/Properties",
-    "Functions/IO/Range.md",
-    "Functions/Composition/Function Composition.md",
-    "Functions/Composition/Composition Operator.md",
     "Functions/IO",
     "Functions/Composition",
-    "Functions/Boolean Function.md",
     "Functions/Composition/Function Composition Image.png",
-    "Set Theory/Truthy Set.md",
-    "Functions/IO/Codomain.md",
-    "Functions/IO/Domain.md",
     "Functions/Function Example Image.png",
     "Functions",
-    "Relations/Ordering/Partial Order.md",
     "Relations/Relation Types",
     "Relations/Ordering",
     "Relations",
     "Set Theory/Set Operators/Cartesian Product",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
-    "Set Theory/Set Operators/Compliment Images",
     "Set Theory/Set Operators/Compliment Images/Compliment B A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment A B.png",
     "Set Theory/Set Operators/Union Image.png",
