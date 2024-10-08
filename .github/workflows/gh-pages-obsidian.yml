@@ -35,7 +35,7 @@ jobs:
       # Step to export Obsidian vault to HTML
       - name: Export Obsidian vault to HTML
         id: obsidian-export   # Assign an ID so we can reference the outputs
-        uses: KosmosisDire/obsidian-webpage-export@master  # or 'owner/repo@version'
+        uses: KosmosisDire/obsidian-webpage-export@5976a9d405f20b23cf2c1c130bd025967dbbc5cd  # or 'owner/repo@version'
         with:
           vault: "./path/to/obsidian-vault"    # Set the correct vault path
 
