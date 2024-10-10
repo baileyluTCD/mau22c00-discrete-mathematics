@@ -9,5 +9,5 @@ A _monoid_ is any [[semigroup]] which has an [[identity element]] associated wit
 
 | [[Binary Operation]] | [[Semigroup]]         | [[Identity Element]] |
 | -------------------- | --------------------- | -------------------- |
-| Addition             | $(\mathbb R, +)$      | 0                    |
-| Multiplication       | $(\mathbb R, \times)$ | 1                    |
+| Addition             | $(\mathbb R, +)$      | $0$                  |
+| Multiplication       | $(\mathbb R, \times)$ | $1$                  |

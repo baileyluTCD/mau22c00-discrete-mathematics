@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/Identity Element.md",
+                "file": "Abstract Algebra/Invertible.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Algebra/Identity Element.md",
+                "file": "Abstract Algebra/Invertible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Algebra/Identity Element.md",
+                "file": "Abstract Algebra/Invertible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract Algebra/Identity Element.md"
+                "file": "Abstract Algebra/Invertible.md"
               }
             }
           }
@@ -204,15 +204,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7b444c68e05e358b",
+  "active": "9e0c88df9938ca34",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Abstract Algebra/Semigroup.md",
     "Abstract Algebra/Monoid.md",
-    "Abstract Algebra/Commutative Monoid.md",
-    "Abstract Algebra/Identity Element.md",
-    "Abstract Algebra/General Associative Law.md",
-    "Abstract Algebra/Associative.md",
+    "Module Info/Assessment.md",
+    "Abstract Algebra/Invertible.md",
     "Discrete Mathematics.md",
     "Statements/Predicate.md",
     "Statements/Hypothesis.md",
@@ -232,6 +228,11 @@
     "Set Theory/Set Operators/In.md",
     "Set Theory/Set Operators/Compliment.md",
     "Set Theory/Set Operators/Cartesian Product.md",
+    "Set Theory/Set Operators/Cartesian Product/Ordered Pair.md",
+    "Set Theory/Set Construction/Set builder function.md",
+    "Set Theory/Set Construction/Enumeration.md",
+    "Set Theory/Number Sets/Natural Numbers.md",
+    "New Text Document.txt",
     "New folder",
     "Untitled.canvas",
     "Abstract Algebra",
@@ -245,7 +246,6 @@
     "Relations/Relation Types",
     "Relations/Ordering",
     "Relations",
-    "Set Theory/Set Operators/Cartesian Product",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment B A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment A B.png",
