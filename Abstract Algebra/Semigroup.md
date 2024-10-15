@@ -1,4 +1,4 @@
-A _semigroup_ is any [[set]] that has **at least one** [[associative]] [[binary operation]] that can be performed on all of it's [[Object (Set Theory)|elements]].
+A _semigroup_ is any [[set]] that has **at least one** [[Associative]] [[Binary Operation]] that can be performed on all of it's [[Object (Set Theory)|elements]].
 
 ---
 ### Notation:

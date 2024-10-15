@@ -3,7 +3,7 @@ tags:
   - Example
   - Notation
 ---
-An _invertible [[semigroup]]_ is a [[semigroup]] $\mathbb S$, such that for every [[Object (Set Theory)|element]] $x$ there exists a **unique** _inverse_ value $y$.
+An _invertible [[Semigroup]]_ is a [[Semigroup]] $\mathbb S$, such that for every [[Object (Set Theory)|element]] $x$ there exists a **unique** _inverse_ value $y$.
 $$\forall x \in S, x * y = y * x = e$$
 
 ---

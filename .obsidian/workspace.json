@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/General Associative Law.md",
+                "file": "Abstract Algebra/Binary Operation/General Associative Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "957c6b6183d92ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Algebra/Binary Operation/Commutative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "035a222d67fd0dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Algebra/Identity Element.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Algebra/Invertible.md",
+                "file": "Abstract Algebra/Identity Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Algebra/Invertible.md",
+                "file": "Abstract Algebra/Identity Element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract Algebra/Invertible.md"
+                "file": "Abstract Algebra/Identity Element.md"
               }
             }
           }
@@ -204,11 +228,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e0c88df9938ca34",
+  "active": "7b444c68e05e358b",
   "lastOpenFiles": [
+    "Abstract Algebra/Invertible.md",
+    "Abstract Algebra/Identity Element.md",
+    "Abstract Algebra/Binary Operation/General Associative Law.md",
+    "Abstract Algebra/Binary Operation/Commutative.md",
+    "Abstract Algebra/Semigroup.md",
+    "Abstract Algebra/Binary Operation",
+    "Untitled",
+    "Abstract Algebra/Binary Operation/Abelian Group.md",
+    "Abstract Algebra/Group.md",
     "Abstract Algebra/Monoid.md",
     "Module Info/Assessment.md",
-    "Abstract Algebra/Invertible.md",
     "Discrete Mathematics.md",
     "Statements/Predicate.md",
     "Statements/Hypothesis.md",
@@ -226,12 +258,6 @@
     "Set Theory/Set Operators/Subset.md",
     "Set Theory/Set Operators/Intersection.md",
     "Set Theory/Set Operators/In.md",
-    "Set Theory/Set Operators/Compliment.md",
-    "Set Theory/Set Operators/Cartesian Product.md",
-    "Set Theory/Set Operators/Cartesian Product/Ordered Pair.md",
-    "Set Theory/Set Construction/Set builder function.md",
-    "Set Theory/Set Construction/Enumeration.md",
-    "Set Theory/Number Sets/Natural Numbers.md",
     "New Text Document.txt",
     "New folder",
     "Untitled.canvas",
@@ -244,8 +270,6 @@
     "Functions/Function Example Image.png",
     "Functions",
     "Relations/Relation Types",
-    "Relations/Ordering",
-    "Relations",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment B A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment A B.png",

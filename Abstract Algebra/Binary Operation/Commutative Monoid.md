@@ -1,0 +1,1 @@
+A [[Monoid]] is considered [[Commutative]] if the [[Semigroup]]'s [[Binary Operation]] off which it is based is also [[Commutative]].

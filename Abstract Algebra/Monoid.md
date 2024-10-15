@@ -2,7 +2,7 @@
 tags:
   - Example
 ---
-A _monoid_ is any [[semigroup]] which has an [[identity element]] associated with it.
+A _monoid_ is any [[Semigroup]] which has an [[identity element]] associated with it.
 
 ---
 ### Examples: Common Operations in $\mathbb R$
