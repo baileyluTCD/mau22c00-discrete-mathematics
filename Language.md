@@ -1,0 +1,1 @@
+A _language_ is a [[subset]] of the **possible** [[Word|words]] in a [[Language|language]].

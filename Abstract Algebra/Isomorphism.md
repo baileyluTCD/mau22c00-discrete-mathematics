@@ -1,0 +1,1 @@
+A [[function]] is known as an _isomorphism_ if it is **both** [[bijective]] and a [[homomorphism]].
