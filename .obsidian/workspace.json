@@ -4,105 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "b811c260a51dc6e4",
+        "id": "4360389912f16251",
         "type": "tabs",
         "children": [
           {
-            "id": "2e4ecd009f26613d",
+            "id": "6907db197f455071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/Binary Operation/Binary Operation.md",
+                "file": "Formal Languages/Grammar/Context-Free Grammar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Operation"
+              "title": "Context-Free Grammar"
             }
           },
           {
-            "id": "5cf4ad1e3961a291",
+            "id": "0553693970e69feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/Homomorphism.md",
+                "file": "Formal Languages/Grammar/Context-Free Grammar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homomorphism"
+              "title": "Context-Free Grammar"
             }
           },
           {
-            "id": "a566fc79d0f052a3",
+            "id": "db59f34ec1d1dd60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/Isomorphism.md",
+                "file": "Formal Languages/Grammar/Ambiguous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isomorphism"
+              "title": "Ambiguous"
             }
           },
           {
-            "id": "ce0e5b0ef1d65f89",
+            "id": "7683bc706aba71c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages/Concatenation.md",
+                "file": "Formal Languages/Grammar/Directly Yields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concatenation"
+              "title": "Directly Yields"
             }
           },
           {
-            "id": "6733c5121bbaac03",
+            "id": "77103c9c65e1c6e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language.md",
+                "file": "Formal Languages/Grammar/Yields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Language"
-            }
-          },
-          {
-            "id": "a7465fcc63548980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formal Languages/Word.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Word"
-            }
-          },
-          {
-            "id": "13f8f42486235a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/Composition/Composition Operator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Composition Operator"
+              "title": "Yields"
             }
           }
         ],
@@ -259,25 +231,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6733c5121bbaac03",
+  "active": "7b444c68e05e358b",
   "lastOpenFiles": [
-    "Formal Languages/Concatenation.md",
-    "Language.md",
-    "Formal Languages/Word.md",
-    "Formal Languages/Letters.md",
+    "Formal Languages/Grammar/Directly Yields.md",
+    "Formal Languages/Grammar/Yields.md",
+    "Formal Languages/Grammar/Ambiguous.md",
+    "Formal Languages/Grammar/Context-Free Grammar.md",
+    "Formal Languages/Grammar/Context-Sensitive Grammar.md",
+    "Formal Languages/Grammar",
+    "Formal Languages/Grammar/Non-Terminals.md",
+    "Formal Languages/Grammar/Terminals.md",
+    "Formal Languages/Grammar.md",
     "Functions/Composition/Composition Operator.md",
+    "Formal Languages/Language.md",
+    "Formal Languages/Kleene Star.md",
+    "Formal Languages/Formal Language.md",
+    "Formal Languages/Word.md",
+    "Abstract Algebra/Binary Operation/Binary Operation.md",
+    "Abstract Algebra/Homomorphism.md",
+    "Abstract Algebra/Isomorphism.md",
+    "Assignments/Assignment 1/Submission.pdf",
+    "Formal Languages/Letters.md",
     "Formal Languages/Alphabet.md",
     "Formal Languages/Finite.md",
-    "Abstract Algebra/Isomorphism.md",
     "Formal Languages",
-    "Abstract Algebra/Homomorphism.md",
-    "Abstract Algebra/Binary Operation/Binary Operation.md",
     "Relations/Relation Types/Equivalence Relation.md",
     "Functions/Properties/Bijective.md",
     "Abstract Algebra/Group.md",
     "Abstract Algebra/Monoid.md",
     "Abstract Algebra/Semigroup.md",
-    "Assignments/Assignment 1/Submission.pdf",
     "Assignments/Assignment 1/Page 1.jpg",
     "Assignments/Assignment 1/Page 2.jpg",
     "Abstract Algebra/Invertible.md",
@@ -288,15 +270,6 @@
     "Assignments/Assignment 1/Page 4.jpg",
     "Assignments/Assignment 1/Page 3.jpg",
     "Abstract Algebra/Binary Operation/Associative.md",
-    "Proofs/Proof By Induction.md",
-    "Set Theory/Set Operators/Cartesian Product.md",
-    "Functions/Properties/Surjective.md",
-    "Functions/Properties/Injective.md",
-    "Relations/Ordering/Partial Order.md",
-    "Relations/Relation Types/Transitive Relation.md",
-    "Relations/Relation Types/Anti-Symmetric Relation.md",
-    "Relations/Relation Types/Symmetric Relation.md",
-    "Relations/Relation Types/Reflexive Relation.md",
     "Assignments/Assignment 1/SophisterDeclarationconcerningplagiarism.pdf",
     "Assignments/Assignment 1",
     "Assignments",
@@ -305,7 +278,6 @@
     "New Text Document.txt",
     "New folder",
     "Untitled.canvas",
-    "Abstract Algebra",
     "Functions/Pigeonhole Principle Image.png",
     "Functions/Composition/Function Composition Image.png"
   ]

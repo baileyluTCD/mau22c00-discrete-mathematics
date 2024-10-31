@@ -1,0 +1,1 @@
+A _terminal_ is a **string** consisting entirely of [[letters]] which exist in a given [[alphabet]].

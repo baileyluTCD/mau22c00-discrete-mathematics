@@ -1,8 +1,10 @@
 ---
 tags:
   - Notation
+aliases:
+  - Concatenation
 ---
-The _concatenation_ of two [[Word|words]] $a$ and $b$ is $$a_1,a_2,...a_n, b_1,b_2,...b_n$$
+The _kleene star/concatenation_ of two [[Word|words]] $a$ and $b$ is $$a_1,a_2,...a_n, b_1,b_2,...b_n$$
 
 ---
 ### Properties:

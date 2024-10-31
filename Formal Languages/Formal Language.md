@@ -1,0 +1,1 @@
+A formal [[Language]] is a [[finite]] [[set]] of rules or algorithm which generates a [[Language]] (i.e. all [[Word|words]] belonging to that [[Language]] and no other words).
