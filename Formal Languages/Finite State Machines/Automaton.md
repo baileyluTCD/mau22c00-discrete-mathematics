@@ -1,0 +1,1 @@
+An _automaton_ is a mathematical model of a computing device.
