@@ -52,11 +52,11 @@ $t : S \times A \rightarrow$
 
 **Application of _[[Finite]] State Acceptor_:** 
 
-| Key    | Value      |
-| ------ | ---------- |
-| String | $\epsilon$ |
-| State  | $i$        |
-| Output | `yes`      |
+| Key    | Value                           |
+| ------ | ------------------------------- |
+| String | $\epsilon$ (The [[empty word]]) |
+| State  | $i$                             |
+| Output | `yes`                           |
 
 | Key    | Value | Value | Value | Value | Value |
 | ------ | ----- | ----- | ----- | ----- | ----- |

@@ -1,1 +1,1 @@
-A _context-sensitive [[grammar]]_ is a grammar with production rules in the form $x \rightarrow y$ where $x$ and $y$ are **strings** of **variables** and [[terminals]], and $|x| < |y|$.
+A _context-sensitive [[Grammar]]_ is a grammar with production rules in the form $x \rightarrow y$ where $x$ and $y$ are **strings** of **variables** and [[terminals]], and $|x| < |y|$.

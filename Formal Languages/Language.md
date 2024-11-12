@@ -1,4 +1,4 @@
-A _language_ is a [[subset]] of the **possible** [[Word|words]] in a [[Language|language]].
+A _language_ is a [[subset]] of the **possible** [[Word|words]] in an [[alphabet]].
 
 ---
 ### Equivalence Classes

@@ -2,11 +2,11 @@
 tags:
   - Notation
 ---
-A _context-free [[grammar]]_ is a grammar who's production rules can be applied to a [[Non-Terminals|Non-Terminal]] regardless of it's context.
+A _context-free [[Grammar]]_ is a grammar who's production rules can be applied to a [[Non-Terminals|Non-Terminal]] regardless of it's context.
 
 ---
 ### Notation:
-A _context-free [[grammar]]_ takes the form $$(V, A, <s>, P)$$
+A _context-free [[Grammar]]_ takes the form $$(V, A, <s>, P)$$
 **Where:**
 - $V$ is the [[set]] of [[Terminals]] and [[Non-Terminals]].
 - $A$ is the [[set]] of [[Terminals]].
