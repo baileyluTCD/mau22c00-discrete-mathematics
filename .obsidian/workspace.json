@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Regular Language"
             }
+          },
+          {
+            "id": "914c8a4aab2eab74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pumping Lemma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pumping Lemma"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4228a63daf49f420",
@@ -174,8 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cae255c085f12b6",
+  "active": "914c8a4aab2eab74",
   "lastOpenFiles": [
+    "Pumping.md",
+    "Pumping Image.png",
+    "Pumping Lemma.md",
+    "Formal Languages/Regular Language.md",
     "Formal Languages/Formal Language.md",
     "Formal Languages/Language.md",
     "Regular Expressions.md",
@@ -185,7 +205,6 @@
     "Formal Languages/Alphabet.md",
     "Formal Languages/Letters.md",
     "Formal Languages/Myhill-Nerode Theorem.md",
-    "Formal Languages/Regular Language.md",
     "Formal Languages/Word.md",
     "Formal Languages/Grammar/Regular Grammar.md",
     "Formal Languages/Grammar/Phase Structure Grammar.md",
@@ -200,9 +219,6 @@
     "Relations/Equivalence Class.md",
     "Formal Languages/Finite State Machines/Finite State Acceptor Image.png",
     "Formal Languages/Finite State Machines/Automaton.md",
-    "Formal Languages/Finite State Machines/Non-deterministic.md",
-    "Formal Languages/Grammar/Context-Sensitive Grammar.md",
-    "Formal Languages/Grammar/Grammar.md",
     "Formal Languages/Finite State Machines",
     "Formal Languages/Grammar",
     "Assignments/Assignment 1/Submission.pdf",
@@ -221,7 +237,6 @@
     "Abstract Algebra/Untitled",
     "Abstract Algebra/Binary Operation",
     "New Text Document.txt",
-    "Untitled.canvas",
-    "Functions/Pigeonhole Principle Image.png"
+    "Untitled.canvas"
   ]
 }
