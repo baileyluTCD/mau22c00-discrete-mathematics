@@ -1,0 +1,1 @@
+_Graph theory_ is the study of [[Graph|graphs]] and their interconnected [[Edge|edges]].

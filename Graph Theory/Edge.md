@@ -1,0 +1,1 @@
+An _edge_ is a connector between two [[Vertex|vertices]], which are known as it's endpoints.
