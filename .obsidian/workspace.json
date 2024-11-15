@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cae255c085f12b6",
+            "id": "293980ee2cdddaf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages/Regular Language.md",
+                "file": "Graph Theory/Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular Language"
-            }
-          },
-          {
-            "id": "914c8a4aab2eab74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pumping Lemma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pumping Lemma"
+              "title": "Graph"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4228a63daf49f420",
@@ -190,15 +174,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "914c8a4aab2eab74",
+  "active": "7b444c68e05e358b",
   "lastOpenFiles": [
-    "Pumping.md",
-    "Pumping Image.png",
-    "Pumping Lemma.md",
-    "Formal Languages/Regular Language.md",
+    "Graph Theory/Undirected Graph",
+    "Graph Theory/Undirected Graph/Undirected Graph.md",
+    "Graph Theory/Trivial Graph.md",
+    "Graph Theory/Undirected Graph/Undirected Graph Example 2 Image.png",
+    "Graph Theory/Undirected Graph/Undirected Graph Example 1 Image.png",
+    "Graph Theory/Edge.md",
+    "Graph Theory/Vertex.md",
+    "Graph Theory/Graph.md",
+    "Graph Theory/Graph Theory.md",
+    "Formal Languages/Grammar/Grammar.md",
+    "Graph Theory",
     "Formal Languages/Formal Language.md",
+    "Formal Languages/Regular Languages/Pumping Lemma.md",
+    "Formal Languages/Regular Languages",
+    "Formal Languages/Regular Languages/Pumping.md",
+    "Formal Languages/Regular Languages/Pumping Image.png",
+    "Formal Languages/Regular Languages/Regular Language.md",
     "Formal Languages/Language.md",
-    "Regular Expressions.md",
+    "Formal Languages/Regular Languages/Regular Expressions.md",
     "Formal Languages/Concatenation.md",
     "Formal Languages/Kleene Star.md",
     "Formal Languages/Empty Word.md",
@@ -211,14 +207,7 @@
     "Formal Languages/Grammar/Ambiguous.md",
     "Formal Languages/Grammar/Non-Terminals.md",
     "Formal Languages/Grammar/Terminals.md",
-    "Formal Languages/Grammar/Yields.md",
-    "Formal Languages/Grammar/Directly Yields.md",
-    "Formal Languages/Grammar/Normal Regular Grammar.md",
-    "Left or Right Regular.md",
-    "Formal Languages/Finite State Machines/Finite State Acceptor.md",
-    "Relations/Equivalence Class.md",
     "Formal Languages/Finite State Machines/Finite State Acceptor Image.png",
-    "Formal Languages/Finite State Machines/Automaton.md",
     "Formal Languages/Finite State Machines",
     "Formal Languages/Grammar",
     "Assignments/Assignment 1/Submission.pdf",
@@ -229,14 +218,10 @@
     "Assignments/Assignment 1/Page 7.jpg",
     "Assignments/Assignment 1/Page 6.jpg",
     "Assignments/Assignment 1/Page 5.jpg",
-    "Assignments/Assignment 1/Page 4.jpg",
-    "Assignments/Assignment 1/Page 3.jpg",
     "Assignments/Assignment 1/SophisterDeclarationconcerningplagiarism.pdf",
     "Assignments/Assignment 1",
     "Assignments",
     "Abstract Algebra/Untitled",
-    "Abstract Algebra/Binary Operation",
-    "New Text Document.txt",
     "Untitled.canvas"
   ]
 }

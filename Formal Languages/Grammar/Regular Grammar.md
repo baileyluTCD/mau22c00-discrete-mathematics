@@ -1,4 +1,4 @@
-A _regular [[Grammar]]_ is a [[context-free grammar]] which produces a [[regular language]].
+A _regular [[Grammar]]_ is a [[context-free grammar]] which produces a [[Regular Language]].
 
 ---
 ### Form

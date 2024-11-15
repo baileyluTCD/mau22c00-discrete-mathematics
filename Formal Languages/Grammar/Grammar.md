@@ -30,3 +30,6 @@ Taking a _grammar_ defined as
 | 3         | $<s> \implies 01$    | $<s> \implies 0011$    |
 | 4         | $<s> \implies 0<s>1$ | $<s> \implies 00<s>11$ |
 | ...       | $<s> \implies 01$    | ...                    |
+
+---
+![[Formal Language#Applications]]
