@@ -8,7 +8,7 @@ A [[Binary Operation]] is considered to be _commutative_ if the **order of the o
 $$\forall x, y \in A, x * y = y * x$$
 
 ---
-### Examples: Common Operations in $\mathbb R$
+### Examples: Common Operations in $\mathbb R$ ([[Real Numbers]])
 
 | Operation      | Implication                                            |
 | -------------- | ------------------------------------------------------ |

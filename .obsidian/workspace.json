@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Degree/k-Regular Graph.md",
+                "file": "Formal Languages/Finite State Machines/Finite State Acceptor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "k-Regular Graph"
+              "title": "Finite State Acceptor"
+            }
+          },
+          {
+            "id": "a13aff150a4c3b85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Algebra/Semigroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Semigroup"
+              "title": "Backlinks"
             }
           },
           {
@@ -155,12 +165,12 @@
               "title": "Outline of Semigroup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,54 +184,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b444c68e05e358b",
+  "active": "a13aff150a4c3b85",
   "lastOpenFiles": [
+    "Formal Languages/Finite State Machines/Automaton.md",
+    "Formal Languages/Finite State Machines/Finite State Acceptor.md",
+    "Formal Languages/Finite State Machines/Finite State Acceptor Image.png",
+    "Set Theory/Set Operators/Turing Machines.md",
+    "Proofs/Proof.md",
+    "Proofs/Proof by Contradiction.md",
+    "Statements/Axiom.md",
+    "Proofs/Proof By Induction.md",
+    "Relations/Equivalence Class.md",
+    "Abstract Algebra/Binary Operation/Commutative.md",
+    "Abstract Algebra/Binary Operation/Binary Operation.md",
+    "Abstract Algebra/Binary Operation/Associative.md",
+    "Formal Languages/Regular Languages/Pumping Lemma.md",
+    "Set Theory/Number Sets/Real Numbers.md",
+    "Formal Languages/Regular Languages/Regular Language.md",
+    "Formal Languages/Concatenation.md",
+    "Formal Languages/Regular Languages/Pumping.md",
+    "Formal Languages/Regular Languages/Pumping Image.png",
+    "Formal Languages/Regular Languages/Regular Expressions.md",
+    "Formal Languages/Finite State Machines/Finite Automation.md",
+    "Formal Languages/Kleene Star.md",
+    "Graph Theory/Degree/k-Regular Graph.md",
     "Graph Theory/Degree",
     "Graph Theory/Bipartite Graph",
     "Graph Theory/Degree/k-Regular Example Image.png",
-    "Graph Theory/Degree/k-Regular Graph.md",
     "Graph Theory/Subgraph.md",
     "Graph Theory/Degree/Pendant.md",
     "Graph Theory/Degree/Isolated.md",
     "Graph Theory/Incidence/Incidence Matrix.md",
     "Graph Theory/Degree/Degree.md",
-    "Graph Theory/Complete Graph.md",
-    "Graph Theory/Bipartite Graph/Complete Bipartite Graph.md",
-    "Abstract Algebra/Isomorphism.md",
     "Graph Theory/Degree/Degree Example.png",
     "Graph Theory/Subgraph Example.png",
-    "Graph Theory/Bipartite Graph/Bipartite Graph.md",
     "Graph Theory/Bipartite Graph/Bipartite Graph Example 2.png",
     "Graph Theory/Bipartite Graph/Bipartite Graph Example 1.png",
-    "Graph Theory/Incidence/Adjacent.md",
-    "Graph Theory/Incidence/Incidence Table.md",
     "Graph Theory/Incidence",
     "Pasted image 20241119105202.png",
-    "Graph Theory/Graph.md",
-    "Graph Theory/Incidence/Incident.md",
     "Graph Theory/Incidence/Adjacent+Incident Example.png",
     "Graph Theory/Undirected Graph",
-    "Graph Theory/Undirected Graph/Undirected Graph.md",
-    "Graph Theory/Trivial Graph.md",
     "Graph Theory/Undirected Graph/Undirected Graph Example 2 Image.png",
-    "Graph Theory/Undirected Graph/Undirected Graph Example 1 Image.png",
-    "Graph Theory/Edge.md",
-    "Graph Theory/Vertex.md",
-    "Graph Theory/Graph Theory.md",
-    "Formal Languages/Grammar/Grammar.md",
     "Graph Theory",
-    "Formal Languages/Formal Language.md",
-    "Formal Languages/Regular Languages/Pumping Lemma.md",
     "Formal Languages/Regular Languages",
-    "Formal Languages/Regular Languages/Pumping.md",
-    "Formal Languages/Regular Languages/Pumping Image.png",
-    "Formal Languages/Regular Languages/Regular Language.md",
-    "Formal Languages/Language.md",
     "Formal Languages/Finite State Machines",
     "Formal Languages/Grammar",
     "Assignments/Assignment 1/Submission.pdf",
     "Formal Languages",
-    "Assignments/Assignment 1/SophisterDeclarationconcerningplagiarism.pdf",
     "Untitled.canvas"
   ]
 }

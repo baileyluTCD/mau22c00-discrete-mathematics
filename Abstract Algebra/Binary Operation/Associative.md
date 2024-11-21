@@ -3,7 +3,7 @@ A [[Binary Operation]] is considered to be _associative_ if the **position of th
 $$\forall x, y, z \in A, (x * y) * z = x * (y * z)$$
 
 ---
-### Examples: Common Operations in $\mathbb R$
+### Examples: Common Operations in $\mathbb R$ ([[Real Numbers]])
 
 | Operation      | Implication                                                                    |
 | -------------- | ------------------------------------------------------------------------------ |

@@ -11,7 +11,7 @@ A _binary operation_ is an operation performed on two [[Object (Set Theory)|elem
 A _binary operation_ on $x, y \in A$ is denoted as $x * y \in A$
 
 ---
-### Examples: Common Operations in $\mathbb R$
+### Examples: Common Operations in $\mathbb R$ ([[Real Numbers]])
 
 | Operation      | Implication                                            |
 | -------------- | ------------------------------------------------------ |
