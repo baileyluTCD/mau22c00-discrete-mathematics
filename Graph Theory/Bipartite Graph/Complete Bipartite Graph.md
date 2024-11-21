@@ -1,0 +1,1 @@
+A _Complete [[Bipartite Graph]]_ is a [[Bipartite Graph]] where every [[vertex]] in $V$ connects to **exactly one** [[vertex]] in $U$ with a **single** [[edge]] between them.

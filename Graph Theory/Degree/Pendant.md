@@ -1,0 +1,1 @@
+A [[vertex]] with [[Degree]] $1$ is an _pendant_ [[vertex]].

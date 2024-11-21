@@ -1,0 +1,1 @@
+A [[vertex]] with [[Degree]] $0$ is an _isolated_ [[vertex]].

@@ -1,3 +1,7 @@
+---
+tags:
+  - Example
+---
 The _[[Incident|incidence]] matrix_ is a **matrix representation** of an [[Incidence Table]].
 
 --- 
