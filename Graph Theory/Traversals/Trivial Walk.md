@@ -1,0 +1,1 @@
+A _trivial [[walk]]_ is a [[walk]] of length $0$ in a [[graph]] with a single [[vertex]] (i.e. a [[trivial graph]])

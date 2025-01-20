@@ -1,0 +1,1 @@
+A **[[graph]] traversal** is known as _simple_ if all vertices

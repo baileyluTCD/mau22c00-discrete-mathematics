@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "055ed694e04d9f1e",
+        "id": "53cb690015f8e80d",
         "type": "tabs",
         "children": [
           {
-            "id": "131ad7da0c071210",
+            "id": "42ce41a8e343232c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Connected Graph/Connected Graph.md",
+                "file": "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connected Graph"
-            }
-          },
-          {
-            "id": "707be00c9f377c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Undirected Graph/Graph Component.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graph Component"
-            }
-          },
-          {
-            "id": "749db67e11b6659a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Connected Graph/Walk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Walk"
+              "title": "Eulerian Circuit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,12 +177,33 @@
   },
   "active": "7b444c68e05e358b",
   "lastOpenFiles": [
+    "Graph Theory/Traversals/Trail.md",
+    "Graph Theory/Traversals/Hamiltonian.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
+    "Graph Theory/Traversals/Eulerian",
+    "Graph Theory/Traversals/Eulerian/Eulerian Trail.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian.md",
+    "Graph Theory/Traversals/Path.md",
+    "Graph Theory/Traversals/Simple Circuit.md",
+    "Graph Theory/Traversals/Trivial Walk.md",
+    "Graph Theory/Trivial Graph.md",
+    "Graph Theory/Traversals/Walk.md",
+    "Graph Theory/Degree/Pendant.md",
+    "Graph Theory/Degree/Isolated.md",
+    "Graph Theory/Degree/Degree.md",
+    "Graph Theory/Undirected Graph/Undirected Graph.md",
+    "Graph Theory/Traversals/Circuit.md",
+    "Relations/Relation Types/Equivalence Relation.md",
+    "Graph Theory/Connected Graph/Connected Graph.md",
+    "Graph Theory/Traversals",
+    "Simple.md",
+    "Graph Theory/Traversals/Closed.md",
+    "Graph Theory/Traversals/Open.md",
+    "Graph Theory/Traversals/Open Walk Image.png",
+    "Graph Theory/Undirected Graph/Graph Component.md",
     "Graph Theory/Connected Graph",
     "Relations/Partition.md",
-    "Graph Theory/Undirected Graph/Graph Component.md",
-    "Graph Theory/Connected Graph/Connected Graph.md",
-    "Graph Theory/Connected Graph/Walk.md",
-    "Graph Theory/Connected Graph/Walk Image.png",
+    "Graph Theory/Traversals/Walk Image.png",
     "Graph Theory/Connected Graph/Connected Graph Image 2.png",
     "Graph Theory/Connected Graph/Connected Graph Image 1.png",
     "Formal Languages/Finite State Machines/Finite State Acceptor.md",
@@ -219,39 +211,17 @@
     "Formal Languages/Finite State Machines/Finite State Acceptor Image.png",
     "Set Theory/Set Operators/Turing Machines.md",
     "Proofs/Proof.md",
-    "Proofs/Proof by Contradiction.md",
-    "Statements/Axiom.md",
-    "Proofs/Proof By Induction.md",
-    "Relations/Equivalence Class.md",
-    "Abstract Algebra/Binary Operation/Commutative.md",
-    "Abstract Algebra/Binary Operation/Binary Operation.md",
-    "Abstract Algebra/Binary Operation/Associative.md",
-    "Formal Languages/Regular Languages/Pumping Lemma.md",
-    "Set Theory/Number Sets/Real Numbers.md",
-    "Formal Languages/Regular Languages/Regular Language.md",
-    "Formal Languages/Concatenation.md",
-    "Formal Languages/Regular Languages/Pumping.md",
     "Formal Languages/Regular Languages/Pumping Image.png",
-    "Formal Languages/Regular Languages/Regular Expressions.md",
-    "Formal Languages/Finite State Machines/Finite Automation.md",
-    "Formal Languages/Kleene Star.md",
-    "Graph Theory/Degree/k-Regular Graph.md",
     "Graph Theory/Degree",
     "Graph Theory/Bipartite Graph",
     "Graph Theory/Degree/k-Regular Example Image.png",
-    "Graph Theory/Subgraph.md",
     "Graph Theory/Degree/Degree Example.png",
     "Graph Theory/Subgraph Example.png",
-    "Graph Theory/Bipartite Graph/Bipartite Graph Example 2.png",
-    "Graph Theory/Bipartite Graph/Bipartite Graph Example 1.png",
     "Graph Theory/Incidence",
     "Graph Theory/Undirected Graph",
     "Graph Theory",
     "Formal Languages/Regular Languages",
     "Formal Languages/Finite State Machines",
-    "Formal Languages/Grammar",
-    "Assignments/Assignment 1/Submission.pdf",
-    "Formal Languages",
     "Untitled.canvas"
   ]
 }

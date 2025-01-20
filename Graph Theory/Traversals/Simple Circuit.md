@@ -1,0 +1,1 @@
+A _simple [[circuit]]_ is a [[circuit]] where every [[vertex]] is unique.
