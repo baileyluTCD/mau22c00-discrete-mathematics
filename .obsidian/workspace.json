@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
+                "file": "Graph Theory/Trivial Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eulerian Circuit"
+              "title": "Trivial Graph"
             }
           }
         ]
@@ -175,31 +175,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b444c68e05e358b",
+  "active": "42ce41a8e343232c",
   "lastOpenFiles": [
-    "Graph Theory/Traversals/Trail.md",
-    "Graph Theory/Traversals/Hamiltonian.md",
-    "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
-    "Graph Theory/Traversals/Eulerian",
-    "Graph Theory/Traversals/Eulerian/Eulerian Trail.md",
-    "Graph Theory/Traversals/Eulerian/Eulerian.md",
-    "Graph Theory/Traversals/Path.md",
-    "Graph Theory/Traversals/Simple Circuit.md",
-    "Graph Theory/Traversals/Trivial Walk.md",
-    "Graph Theory/Trivial Graph.md",
     "Graph Theory/Traversals/Walk.md",
+    "Graph Theory/Traversals/Trivial Walk.md",
+    "Graph Theory/Traversals/Trail.md",
+    "Graph Theory/Traversals/Simple Circuit.md",
+    "Graph Theory/Traversals/Path.md",
+    "Graph Theory/Traversals/Open Walk Image.png",
+    "Graph Theory/Traversals/Open.md",
+    "Graph Theory/Traversals/Hamiltonian.md",
+    "Graph Theory/Traversals/Closed.md",
+    "Graph Theory/Traversals/Circuit.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian Trail.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
+    "Graph Theory/Complete Graph.md",
+    "Graph Theory/Traversals/Eulerian",
+    "Graph Theory/Traversals/Eulerian/Eulerian.md",
+    "Graph Theory/Trivial Graph.md",
     "Graph Theory/Degree/Pendant.md",
     "Graph Theory/Degree/Isolated.md",
     "Graph Theory/Degree/Degree.md",
     "Graph Theory/Undirected Graph/Undirected Graph.md",
-    "Graph Theory/Traversals/Circuit.md",
     "Relations/Relation Types/Equivalence Relation.md",
     "Graph Theory/Connected Graph/Connected Graph.md",
     "Graph Theory/Traversals",
     "Simple.md",
-    "Graph Theory/Traversals/Closed.md",
-    "Graph Theory/Traversals/Open.md",
-    "Graph Theory/Traversals/Open Walk Image.png",
     "Graph Theory/Undirected Graph/Graph Component.md",
     "Graph Theory/Connected Graph",
     "Relations/Partition.md",
@@ -209,8 +210,6 @@
     "Formal Languages/Finite State Machines/Finite State Acceptor.md",
     "Formal Languages/Finite State Machines/Automaton.md",
     "Formal Languages/Finite State Machines/Finite State Acceptor Image.png",
-    "Set Theory/Set Operators/Turing Machines.md",
-    "Proofs/Proof.md",
     "Formal Languages/Regular Languages/Pumping Image.png",
     "Graph Theory/Degree",
     "Graph Theory/Bipartite Graph",

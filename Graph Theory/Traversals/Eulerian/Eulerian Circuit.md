@@ -1,3 +1,7 @@
+---
+tags:
+  - Example
+---
 An _[[Eulerian]] [[circuit]]_ is a [[circuit]] which traverses every [[vertex]] in a [[graph]] exactly once.
 
 > [!example]
