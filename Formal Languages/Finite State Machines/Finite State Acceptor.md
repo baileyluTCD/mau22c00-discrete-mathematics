@@ -10,13 +10,13 @@ When examined, the user typically only cares about the final state, which ends i
 ---
 ### Composition
 A _[[Finite]] State Acceptor_ is **composed** of a number of parts:
-- $s \implies$ The [[set]] of **all possible** outputs 
+- $s \implies$ The [[set]] of **all possible** output states
 - $a \implies$ The [[alphabet]] **input** on which the _[[Finite]] State Acceptor_ acts on
 - $t \implies$  the transition mapping which **describes state changes**
 - $i \implies$ The **starting** state 
 - $f \implies$ The [[set]] of **accepting** outputs 
 ---
-### notation 
+### Notation 
 A _[[Finite]] State Acceptor_ is usually denoted as $(S, A, t, i, f,)$
 
 ---

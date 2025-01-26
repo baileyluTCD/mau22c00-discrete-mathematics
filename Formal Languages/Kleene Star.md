@@ -9,7 +9,7 @@ The _Kleene Star operator_ $*$ describes something that repeats $1$ or more time
 ### Example:
 The unix regular expression `^.*y` would select **all characters** (`.`) from the **start of the line** (`^`), **repeating** (`*`) up until the character `y`
 
-==My favourite colour is y==ellow.
+> ==My favourite colour is y==ellow.
 
 ---
 ### Notation:
