@@ -8,105 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7c19119564dfc29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Traversals/Hamiltonian/Hamiltonian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamiltonian"
-            }
-          },
-          {
-            "id": "a68ecfb8cc0dbfeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamiltonian Path"
-            }
-          },
-          {
-            "id": "018da76390c9d9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamiltonian Path"
-            }
-          },
-          {
-            "id": "3a7d8da58015af2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamiltonian Circuit"
-            }
-          },
-          {
-            "id": "a2355a3f92ca2f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamiltonian Path"
-            }
-          },
-          {
-            "id": "8d27472520027907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Traversals/Hamiltonian/Hamiltonian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamiltonian"
-            }
-          },
-          {
             "id": "c40ef020d02793f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Forests/Tree.md",
+                "file": "Graph Theory/Forests and Trees/Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Tree"
             }
+          },
+          {
+            "id": "12ea7fbd3868b934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Theory/Forests and Trees/Spanning Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spanning Tree"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,16 +192,18 @@
   },
   "active": "7b444c68e05e358b",
   "lastOpenFiles": [
-    "Graph Theory/Forests",
-    "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
+    "Graph Theory/Forests and Trees/Spanning Tree Image.png",
+    "Graph Theory/Forests and Trees/Spanning Tree.md",
+    "Graph Theory/Forests and Trees/Tree.md",
+    "Graph Theory/Traversals/Hamiltonian/Hamiltonian.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
+    "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
+    "Graph Theory/Forests and Trees",
     "Graph Theory/Degree/Pendant.md",
     "Graph Theory/Traversals/Hamiltonian",
-    "Graph Theory/Forests/Acyclic Graph.md",
-    "Graph Theory/Forests/Forest Image.png",
-    "Graph Theory/Forests/Tree.md",
-    "Graph Theory/Forests/Tree Image.png",
-    "Graph Theory/Traversals/Hamiltonian/Hamiltonian.md",
+    "Graph Theory/Forests and Trees/Acyclic Graph.md",
+    "Graph Theory/Forests and Trees/Forest Image.png",
+    "Graph Theory/Forests and Trees/Tree Image.png",
     "Graph Theory/Incidence/Adjacent.md",
     "Assignments/Assignment 2/Assignment 2.pdf",
     "Assignments/Assignment 2/combinepdf-1.pdf",
@@ -304,10 +236,8 @@
     "Graph Theory/Trivial Graph.md",
     "Graph Theory/Traversals/Walk.md",
     "Graph Theory/Traversals/Trivial Walk.md",
-    "Graph Theory/Traversals/Simple Circuit.md",
     "Graph Theory/Traversals/Eulerian",
     "Graph Theory/Traversals",
-    "Graph Theory/Connected Graph",
     "Untitled.canvas"
   ]
 }
