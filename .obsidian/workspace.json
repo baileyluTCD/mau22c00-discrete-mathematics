@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Kruskal's Algorithm"
             }
+          },
+          {
+            "id": "b79aa34e10782a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prim's Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prim's Algorithm"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5026054382324
+    "width": 383.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "4228a63daf49f420",
@@ -191,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce88e96d76d99150",
+  "active": "b79aa34e10782a23",
   "lastOpenFiles": [
+    "Graph Theory/Forests and Trees/Spanning Trees/Kruskal's Algorithm.md",
+    "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree.md",
+    "Prim's Algorithm.md",
     "Spanning Tree Construction 1.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 5.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 4.png",
@@ -200,13 +218,10 @@
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 2.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 1.png",
     "Spanning Tree Construction 2.png",
-    "Graph Theory/Forests and Trees/Spanning Trees/Kruskal's Algorithm.md",
     "Graph Theory/Forests and Trees/Spanning Trees",
-    "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree.md",
     "Spanning Tree Construction 5.png",
     "Spanning Tree Construction 4.png",
     "Spanning Tree Construction 3.png",
-    "Spanning Tree Construction 5.png",
     "Graph Theory/Forests and Trees/Tree.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
