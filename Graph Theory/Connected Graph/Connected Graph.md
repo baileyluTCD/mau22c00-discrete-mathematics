@@ -2,7 +2,7 @@
 tags:
   - Example
 ---
-An [[undirected graph]] is known as _connected_ if, for every [[vertex]] there exists a [[Walk]] along the [[Edge|edges]] to any other [[vertex]].
+An [[Undirected Graph]] is known as _connected_ if, for every [[vertex]] there exists a [[Walk]] along the [[Edge|edges]] to any other [[vertex]].
 
 ---
 > [!example]
