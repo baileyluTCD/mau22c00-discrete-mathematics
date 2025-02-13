@@ -1,6 +1,4 @@
-_Kruskal's Algorithm_ is a method of creating a [[Spanning Tree]] for a given [[Connected Graph|connected]] [[Undirected Graph|undirected]] [[graph]].
-
-_Kruskal's Algorithm_ allows us to assign a given **cost** to each [[edge]], such as a distance to travel in meters, which can be used to find the [[Spanning Tree]] of **minimal cost**.
+_Kruskal's Algorithm_ is a method of creating a [[Minimal Spanning Tree]] for a given [[Connected Graph|connected]] [[Undirected Graph|undirected]] [[graph]].
 
 ---
 ### Process

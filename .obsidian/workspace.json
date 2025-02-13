@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c40ef020d02793f7",
+            "id": "ce88e96d76d99150",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,49 @@
             }
           },
           {
-            "id": "ce88e96d76d99150",
+            "id": "a418ffef98cdfe61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Forests and Trees/Spanning Trees/Kruskal's Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kruskal's Algorithm"
-            }
-          },
-          {
-            "id": "b79aa34e10782a23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prim's Algorithm.md",
+                "file": "Graph Theory/Forests and Trees/Spanning Trees/Prim's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Prim's Algorithm"
             }
+          },
+          {
+            "id": "fdd38a640b5ce76b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minimal Spanning Tree"
+            }
+          },
+          {
+            "id": "0babf4aab57d14a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Theory/Directed Graphs/Directed Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Directed Graph"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5026054382324,
-    "collapsed": true
+    "width": 383.5026054382324
   },
   "right": {
     "id": "4228a63daf49f420",
@@ -206,11 +219,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b79aa34e10782a23",
+  "active": "7b444c68e05e358b",
   "lastOpenFiles": [
-    "Graph Theory/Forests and Trees/Spanning Trees/Kruskal's Algorithm.md",
+    "Graph Theory/Directed Graphs",
+    "Graph Theory/Directed Graphs/Directed Graph Image.png",
+    "Graph Theory/Directed Graphs/Directed Graph.md",
+    "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree.md",
+    "Graph Theory/Forests and Trees/Spanning Trees/Prim's Algorithm.md",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree.md",
-    "Prim's Algorithm.md",
+    "Graph Theory/Forests and Trees/Spanning Trees/Kruskal's Algorithm.md",
+    "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree Image.png",
     "Spanning Tree Construction 1.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 5.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 4.png",
@@ -220,8 +238,6 @@
     "Spanning Tree Construction 2.png",
     "Graph Theory/Forests and Trees/Spanning Trees",
     "Spanning Tree Construction 5.png",
-    "Spanning Tree Construction 4.png",
-    "Spanning Tree Construction 3.png",
     "Graph Theory/Forests and Trees/Tree.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
@@ -250,9 +266,6 @@
     "Graph Theory/Traversals/Trail.md",
     "Graph Theory/Traversals/Eulerian/Eulerian.md",
     "Graph Theory/Traversals/Circuit.md",
-    "Formal Languages/Grammar/Context-Free Grammar.md",
-    "Graph Theory/Trivial Graph.md",
-    "Graph Theory/Traversals/Walk.md",
     "Graph Theory/Traversals/Eulerian",
     "Untitled.canvas"
   ]
