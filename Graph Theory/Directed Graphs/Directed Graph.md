@@ -21,3 +21,10 @@ The _initial_ vertex_ is the vertex at the start of an [[edge]].
 #### Terminal Vertex
 The _terminal vertex_ is the vertex at the end of an [[edge]].
 
+---
+### Binary Relation
+_Directed [[graph|graphs]]_ can be used as a visual representation of [[Relation|binary relations]].
+
+For every _directed [[graph]]_ $(V, E)$ there exists a corresponding [[Relation|binary relation]] $R$ on $V$, and vice versa. 
+$$\forall v, w \in V, vRw \iff (v,w) \in E$$
+

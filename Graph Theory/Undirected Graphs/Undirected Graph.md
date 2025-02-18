@@ -3,8 +3,8 @@ tags:
   - Example
 ---
 An _undirected [[graph]]_ is a [[graph]] consisting of:
-- A [[Empty Set|Non-Empty]] [[finite]] [[set]] of [[Vertex|vertices]] $V$
-- A [[Empty Set|Non-Empty]] [[finite]] [[set]] of [[Edge|edges]] $E$ joining any two [[Vertex|vertices]] without an associated direction in which the join takes place
+- A [[Empty Set|Non-Empty]] [[Finite]] [[set]] of [[Vertex|vertices]] $V$
+- A [[Empty Set|Non-Empty]] [[Finite]] [[set]] of [[Edge|edges]] $E$ joining any two [[Vertex|vertices]] without an associated direction in which the join takes place
 
 The [[set]] of possible [[Edge|edges]] available for an _undirected [[graph]]_ is always the [[power set]] of the [[Vertex|vertices]] filtered to [[Object (Set Theory)|elements]] of **cardinality** $2$
 

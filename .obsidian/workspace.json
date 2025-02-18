@@ -8,63 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce88e96d76d99150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spanning Tree"
-            }
-          },
-          {
-            "id": "a418ffef98cdfe61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Forests and Trees/Spanning Trees/Prim's Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prim's Algorithm"
-            }
-          },
-          {
-            "id": "fdd38a640b5ce76b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Minimal Spanning Tree"
-            }
-          },
-          {
             "id": "0babf4aab57d14a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Directed Graphs/Directed Graph.md",
+                "file": "Countability of Sets/Finite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directed Graph"
+              "title": "Finite"
+            }
+          },
+          {
+            "id": "76cd8ae70dffd6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countability of Sets/Infinite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infinite"
+            }
+          },
+          {
+            "id": "422d4072ab9cfb0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countability of Sets/Uncountably Infinite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uncountably Infinite"
+            }
+          },
+          {
+            "id": "b3b9cf0509327dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countability of Sets/Countably Infinite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Countably Infinite"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,12 +220,17 @@
   },
   "active": "7b444c68e05e358b",
   "lastOpenFiles": [
-    "Graph Theory/Directed Graphs",
-    "Graph Theory/Directed Graphs/Directed Graph Image.png",
+    "Countability of Sets",
+    "Countability of Sets/Countably Infinite.md",
+    "Countability of Sets/Uncountably Infinite.md",
+    "Countability of Sets/Infinite.md",
+    "Countability of Sets/Finite.md",
     "Graph Theory/Directed Graphs/Directed Graph.md",
     "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree.md",
     "Graph Theory/Forests and Trees/Spanning Trees/Prim's Algorithm.md",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree.md",
+    "Graph Theory/Directed Graphs",
+    "Graph Theory/Directed Graphs/Directed Graph Image.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Kruskal's Algorithm.md",
     "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree Image.png",
     "Spanning Tree Construction 1.png",
@@ -262,11 +266,6 @@
     "readme.md",
     "index.md",
     "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
-    "Graph Theory/Traversals/Eulerian/Eulerian Trail.md",
-    "Graph Theory/Traversals/Trail.md",
-    "Graph Theory/Traversals/Eulerian/Eulerian.md",
-    "Graph Theory/Traversals/Circuit.md",
-    "Graph Theory/Traversals/Eulerian",
     "Untitled.canvas"
   ]
 }
