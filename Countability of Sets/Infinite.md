@@ -1,0 +1,1 @@
+An _infinite_ [[set]] is a [[set]] with a not [[Finite]] amount of [[Object (Set Theory)|elements]].

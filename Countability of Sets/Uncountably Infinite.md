@@ -1,0 +1,1 @@
+An _uncountably infinite_ [[set]] is a [[set]] that is neither [[Finite]] or [[Countably Infinite|countable]].
