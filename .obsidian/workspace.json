@@ -193,12 +193,14 @@
   },
   "active": "b3b9cf0509327dfe",
   "lastOpenFiles": [
+    "Tan Graph.png",
+    "Graph Theory/Subgraph.md",
+    "Countability of Sets/Uncountably Infinite.md",
     "Countability of Sets/Finite.md",
     "Countability of Sets/Sequences/Sequence.md",
     "Countability of Sets/Countably Infinite.md",
     "Countability of Sets/Sequences",
     "Countability of Sets/Sequences/Subsequence.md",
-    "Countability of Sets/Uncountably Infinite.md",
     "Countability of Sets/Infinite.md",
     "Countability of Sets",
     "Graph Theory/Directed Graphs/Directed Graph.md",
@@ -237,7 +239,6 @@
     "Formal Languages/Finite State Machines/Finite Automation.md",
     "Formal Languages/Kleene Star.md",
     "Discrete Mathematics.md",
-    "readme.md",
     "Untitled.canvas"
   ]
 }
