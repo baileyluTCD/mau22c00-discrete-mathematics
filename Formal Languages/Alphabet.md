@@ -2,7 +2,9 @@
 tags:
   - Example
 ---
-If $A$ is a [[Finite]] [[Set]], in the context of **Formal Languages**, $A$ is known as an _alphabet_.
+If $A$ is a [[finite]] [[set]], in the context of **Formal Languages**, $A$ is known as an _alphabet_.
+
+If $A$ is a [[finite]] [[alphabet]] then the [[set]] of all [[Word|words]] over $A$ is [[countably infinite]].
 
 ---
 ### Examples:
