@@ -1,1 +1,1 @@
-A [[vertex]] with [[Degree]] $1$ is an _pendant_ [[vertex]].
+A [[vertex]] with [[degree]] $1$ is an _pendant_ [[vertex]].
