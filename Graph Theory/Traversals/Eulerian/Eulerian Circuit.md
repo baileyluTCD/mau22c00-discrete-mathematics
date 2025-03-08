@@ -2,7 +2,7 @@
 tags:
   - Example
 ---
-An _[[Eulerian]] [[circuit]]_ is a [[circuit]] which traverses every [[vertex]] in a [[graph]] exactly once.
+An _[[Eulerian]] [[circuit]]_ is a [[circuit]] which traverses every [[edge]] in a [[graph]] exactly once.
 
 > [!example]
 > An _[[Eulerian]] [[circuit]]_ $ABCA$
