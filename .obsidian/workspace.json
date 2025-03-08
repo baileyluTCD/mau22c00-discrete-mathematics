@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "43aa2c2e7c0fde5c",
+        "id": "ccb4c5972f925417",
         "type": "tabs",
         "children": [
           {
-            "id": "eb147d12ad8e7295",
+            "id": "ff2b51c6146edd77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Languages/Alphabet.md",
+                "file": "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alphabet"
+              "title": "Hamiltonian Path"
+            }
+          },
+          {
+            "id": "f26b2e6d53ec768a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eulerian Circuit"
             }
           }
         ]
@@ -177,8 +191,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb147d12ad8e7295",
+  "active": "ff2b51c6146edd77",
   "lastOpenFiles": [
+    "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
+    "Assignments/Assignment 3/brute_force_tsp.py~",
+    "Assignments/Assignment 3/brute_force_tsp.py",
+    "Assignments/Assignment 3",
+    "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
+    "Graph Theory/Traversals/Circuit.md",
+    "Graph Theory/Forests and Trees/Acyclic Graph.md",
+    "Graph Theory/Forests and Trees/Tree.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian Trail.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian Circuit.md",
+    "Graph Theory/Degree/Pendant.md",
+    "Graph Theory/Degree/Degree.md",
+    "Graph Theory/Traversals/Closed.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian.md",
+    "Graph Theory/Connected Graph/Connected Graph.md",
+    "Set Theory/Disjoint set.md",
+    "Discrete Mathematics.md",
+    "Formal Languages/Alphabet.md",
     "Countability of Sets/Continuum Hypothesis.md",
     "Graph Theory/Undirected Graphs/Undirected Graph.md",
     "Countability of Sets/Uncountably Infinite.md",
@@ -192,13 +224,8 @@
     "Countability of Sets/Sequences/Subsequence.md",
     "Countability of Sets/Infinite.md",
     "Countability of Sets",
-    "Graph Theory/Directed Graphs/Directed Graph.md",
-    "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree.md",
-    "Graph Theory/Forests and Trees/Spanning Trees/Prim's Algorithm.md",
-    "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree.md",
     "Graph Theory/Directed Graphs",
     "Graph Theory/Directed Graphs/Directed Graph Image.png",
-    "Graph Theory/Forests and Trees/Spanning Trees/Kruskal's Algorithm.md",
     "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree Image.png",
     "Spanning Tree Construction 1.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 5.png",
@@ -208,23 +235,9 @@
     "Graph Theory/Forests and Trees/Spanning Trees/Spanning Tree Construction 1.png",
     "Spanning Tree Construction 2.png",
     "Graph Theory/Forests and Trees/Spanning Trees",
-    "Graph Theory/Forests and Trees/Tree.md",
-    "Graph Theory/Traversals/Hamiltonian/Hamiltonian.md",
-    "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
-    "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
     "Graph Theory/Forests and Trees",
-    "Graph Theory/Degree/Pendant.md",
     "Graph Theory/Traversals/Hamiltonian",
-    "Graph Theory/Forests and Trees/Acyclic Graph.md",
-    "Graph Theory/Incidence/Adjacent.md",
     "Assignments/Assignment 2/Assignment 2.pdf",
-    "Assignments/Assignment 2/combinepdf-1.pdf",
-    "Assignments/Assignment 2/Sophister Declaration concerning plagiarism.pdf",
-    "Assignments/Assignment 2",
-    "Graph Theory/Incidence/Incidence Matrix.md",
-    "Formal Languages/Concatenation.md",
-    "Formal Languages/Finite State Machines/Finite State Acceptor.md",
-    "Formal Languages/Finite State Machines/Finite Automation.md",
     "Untitled.canvas"
   ]
 }
