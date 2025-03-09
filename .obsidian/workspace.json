@@ -25,14 +25,12 @@
             "id": "65bf33d4ad941978",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Graph Theory/Connected Graph/Connected Graph.md",
-                "mode": "source",
-                "source": false
+                "file": "Assignments/Assignment 3/Photos/Page 2.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Connected Graph"
+              "icon": "lucide-image",
+              "title": "Page 2"
             }
           },
           {
@@ -205,18 +203,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65bf33d4ad941978",
+  "active": "7b444c68e05e358b",
   "lastOpenFiles": [
-    "Assignments/Assignment 3/Photos/IMG_20250309_001051080.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_001046522.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_001026103.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_001018686.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_000941990.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_001008789.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_000933392.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_000923814.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_000916508.jpg",
-    "Assignments/Assignment 3/Photos/IMG_20250309_000906745.jpg",
+    "Assignments/Assignment 3/Assignment 3.pdf",
+    "Assignments/Assignment 3/combinepdf.pdf",
+    "Assignments/Assignment 3/Photos/Page 4.jpg",
+    "Assignments/Assignment 3/Photos/Page 5.jpg",
+    "Assignments/Assignment 3/Photos/Page 8.jpg",
+    "Assignments/Assignment 3/Photos/Page 9_1.jpg",
+    "Assignments/Assignment 3/Photos/Page 9_2.jpg",
+    "Assignments/Assignment 3/Photos/Sophister Declaration concerning plagiarism.pdf",
+    "Assignments/Assignment 2/Assignment2.pdf",
+    "Graph Theory/Connected Graph/Connected Graph.md",
+    "Assignments/Assignment 3/Photos/Page 7.jpg",
+    "Assignments/Assignment 3/Photos/Page 6.jpg",
+    "Assignments/Assignment 3/Photos/Page 3.jpg",
+    "Assignments/Assignment 3/Photos/Page 2.jpg",
+    "Assignments/Assignment 3/Photos/Page 1.jpg",
     "Assignments/Assignment 3/Photos/OneDrive_1_9-3-2025.zip",
     "Assignments/Assignment 3/Photos",
     "Assignments/Assignment 3/flake.nix~",
@@ -229,12 +232,8 @@
     "Abstract Algebra/Isomorphism.md",
     "Graph Theory/Adjacency Matrix.md",
     "Graph Theory/Adjacency Matrix.md~",
-    "Graph Theory/Adjacency Matrix Graph.png",
     "Graph Theory/Incidence/Adjacent.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
-    "Assignments/Assignment 3/brute_force_tsp.exs",
-    "Assignments/Assignment 3/brute_force_tsp.ex",
-    "Assignments/Assignment 3/brute_force_tsp.exs~",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
     "Graph Theory/Traversals/Circuit.md",
     "Graph Theory/Forests and Trees/Acyclic Graph.md",
@@ -245,7 +244,6 @@
     "Graph Theory/Degree/Degree.md",
     "Graph Theory/Traversals/Closed.md",
     "Graph Theory/Traversals/Eulerian/Eulerian.md",
-    "Graph Theory/Connected Graph/Connected Graph.md",
     "Set Theory/Disjoint set.md",
     "Discrete Mathematics.md",
     "Formal Languages/Alphabet.md",
