@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory/Adjacency Matrix.md",
+                "file": "Graph Theory/Connected Graph/Connected Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjacency Matrix"
+              "title": "Connected Graph"
             }
           },
           {
@@ -207,13 +207,20 @@
   },
   "active": "65bf33d4ad941978",
   "lastOpenFiles": [
+    "Assignments/Assignment 3/flake.nix~",
+    "Assignments/Assignment 3/directed_graph_connected_algo.exs~",
+    "Assignments/Assignment 3/4913",
+    "Assignments/Assignment 3/directed_graph_connected_algo.exs",
+    "Connectives/Connective.md",
+    "Relations/Relation Types/Equivalence Relation.md",
+    "Graph Theory/Traversals/Path.md",
+    "Abstract Algebra/Isomorphism.md",
+    "Graph Theory/Adjacency Matrix.md",
     "Graph Theory/Adjacency Matrix.md~",
     "Graph Theory/Adjacency Matrix Graph.png",
     "Graph Theory/Adjacency Matrix Graph.png",
     "Graph Theory/Incidence/Adjacent.md",
-    "Graph Theory/Adjacency Matrix.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
-    "Assignments/Assignment 3/flake.nix~",
     "Assignments/Assignment 3/brute_force_tsp.exs",
     "Assignments/Assignment 3/brute_force_tsp.ex",
     "Assignments/Assignment 3/brute_force_tsp.exs~",
@@ -221,8 +228,6 @@
     "Assignments/Assignment 3/flake.nix",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
     "Assignments/Assignment 3/brute_force_tsp.py~",
-    "Assignments/Assignment 3/brute_force_tsp.py",
-    "Assignments/Assignment 3",
     "Graph Theory/Traversals/Circuit.md",
     "Graph Theory/Forests and Trees/Acyclic Graph.md",
     "Graph Theory/Forests and Trees/Tree.md",
@@ -240,12 +245,7 @@
     "Graph Theory/Undirected Graphs/Undirected Graph.md",
     "Countability of Sets/Uncountably Infinite.md",
     "Set Theory/Cardinality.md",
-    "Countability of Sets/Sequences/Sequence.md",
     "Tan Graph.png",
-    "Graph Theory/Subgraph.md",
-    "Countability of Sets/Finite.md",
-    "Countability of Sets/Countably Infinite.md",
-    "Countability of Sets/Sequences",
     "Graph Theory/Directed Graphs/Directed Graph Image.png",
     "Graph Theory/Forests and Trees/Spanning Trees/Minimal Spanning Tree Image.png",
     "Spanning Tree Construction 1.png",
