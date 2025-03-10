@@ -25,12 +25,14 @@
             "id": "65bf33d4ad941978",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assignments/Assignment 3/Photos/Page 2.jpg"
+                "file": "Formal Languages/Alphabet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Page 2"
+              "icon": "lucide-file",
+              "title": "Alphabet"
             }
           },
           {
@@ -80,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "countabl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,11 +103,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 383.5026054382324
+    "width": 383.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "4228a63daf49f420",
@@ -203,9 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b444c68e05e358b",
+  "active": "65bf33d4ad941978",
   "lastOpenFiles": [
+    "Formal Languages/Formal Language.md",
+    "Formal Languages/Alphabet.md",
     "Assignments/Assignment 3/Assignment 3.pdf",
+    "Assignments/Assignment 3/Photos/Page 2.jpg",
     "Assignments/Assignment 3/combinepdf.pdf",
     "Assignments/Assignment 3/Photos/Page 4.jpg",
     "Assignments/Assignment 3/Photos/Page 5.jpg",
@@ -218,7 +225,6 @@
     "Assignments/Assignment 3/Photos/Page 7.jpg",
     "Assignments/Assignment 3/Photos/Page 6.jpg",
     "Assignments/Assignment 3/Photos/Page 3.jpg",
-    "Assignments/Assignment 3/Photos/Page 2.jpg",
     "Assignments/Assignment 3/Photos/Page 1.jpg",
     "Assignments/Assignment 3/Photos/OneDrive_1_9-3-2025.zip",
     "Assignments/Assignment 3/Photos",
@@ -231,7 +237,6 @@
     "Graph Theory/Traversals/Path.md",
     "Abstract Algebra/Isomorphism.md",
     "Graph Theory/Adjacency Matrix.md",
-    "Graph Theory/Adjacency Matrix.md~",
     "Graph Theory/Incidence/Adjacent.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Path.md",
     "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
@@ -246,7 +251,6 @@
     "Graph Theory/Traversals/Eulerian/Eulerian.md",
     "Set Theory/Disjoint set.md",
     "Discrete Mathematics.md",
-    "Formal Languages/Alphabet.md",
     "Countability of Sets/Continuum Hypothesis.md",
     "Graph Theory/Undirected Graphs/Undirected Graph.md",
     "Countability of Sets/Uncountably Infinite.md",

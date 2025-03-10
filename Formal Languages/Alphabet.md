@@ -2,9 +2,17 @@
 tags:
   - Example
 ---
-If $A$ is a [[finite]] [[set]], in the context of **Formal Languages**, $A$ is known as an _alphabet_.
+If $A$ is a [[finite]] [[set]], in the context of **Formal Languages**, $A$ is known as an _alphabet_. 
 
-If $A$ is a [[finite]] [[alphabet]] then the [[set]] of all [[Word|words]] over $A$ is [[countably infinite]].
+---
+### Cardinality
+If $A$ is a [[finite]] _alphabet_ then the [[set]] of all [[Word|words]] over $A$ is [[countably infinite]].
+
+Additionally, the following are `true`:
+- The [[set]] of [[Regular Language|regular languages]] is [[countably infinite]].
+- The [[set]] of [[Language|languages]] is [[uncountably infinite]].
+
+Hence [[Regular Language|regular languages]] are a special category of [[language|languages]] over a given _alphabet_.
 
 ---
 ### Examples:
