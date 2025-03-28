@@ -1,0 +1,3 @@
+A _[[Non-deterministic]] [[Turing Machine]]_ is a variant of the [[Turing Machine|turing machine]] which proceeds based on arbitrary input probabilities, hence will produce different outputs even if given the same inputs.
+
+However, for a [[language]] to be [[Turing-Recognisable|turing-recognisable]] in the first place it must have a regular [[deterministic]] [[Turing Machine|turing machine]] which can [[Turing-Recognisable|recognise]] it, hence every _[[non-deterministic]] [[Turing Machine|turing machine]]_ also has some possible [[deterministic]] [[turing machine]] that is able to [[Turing-Recognisable|recognise]] it.
