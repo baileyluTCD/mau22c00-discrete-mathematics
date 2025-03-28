@@ -37,6 +37,10 @@ The machine continues until it has produced either an [[Finite State Acceptor|ac
 > - $\mathcal S_{reject} \in \mathcal S$ is the [[Finite State Acceptor|REJECT]] state.
 
 ---
+### [[Equivalence Relation|Equivalence]]
+Two _turing machines_ are considered [[Equivalence Relation|equal]] if they [[Turing-Recognisable|recognise]] the same [[language]].
+
+---
 ### Example
 #### Language
 $A = \{0, 1\}$
