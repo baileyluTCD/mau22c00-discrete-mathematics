@@ -1,0 +1,1 @@
+A given [[Language|language]] is known as _Co-[[Turing-Recognisable]]_ if it's [[Compliment|compliment]] is [[Turing-Recognisable|turing-recognisable]].
