@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turing Machines/Variants/Universal Turing Machine.md",
+                "file": "Abstract Algebra/Semigroup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universal Turing Machine"
+              "title": "Semigroup"
             }
           }
         ]
@@ -176,13 +176,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b444c68e05e358b",
+  "active": "0c9221f89e7d3ca6",
   "lastOpenFiles": [
+    "Abstract Algebra/Monoid.md",
+    "Abstract Algebra/Isomorphism.md",
+    "Abstract Algebra/Invertible.md",
+    "Abstract Algebra/Identity Element.md",
+    "Abstract Algebra/Homomorphism.md",
+    "Abstract Algebra/Group.md",
+    "Abstract Algebra/Binary Operation/General Associative Law.md",
+    "Abstract Algebra/Binary Operation/Commutative Monoid.md",
+    "Abstract Algebra/Binary Operation/Commutative.md",
+    "Abstract Algebra/Binary Operation/Binary Operation.md",
+    "Abstract Algebra/Binary Operation/Associative.md",
+    "Abstract Algebra/Binary Operation/Abelian Group.md",
+    "Set Theory/Object (Set Theory).md",
+    "Turing Machines/Variants/Universal Turing Machine.md",
     "Formal Languages/Language.md",
     "Formal Languages/Closed Language.md",
     "Set Theory/Number Sets/Natural Numbers.md",
     "Set Theory/Russel's Paradox.md",
-    "Turing Machines/Variants/Universal Turing Machine.md",
     "Set Theory/Set Operators/Intersection.md",
     "Set Theory/Set Operators/Union.md",
     "Set Theory/Set Operators/Subset.md",
@@ -191,19 +204,6 @@
     "Set Theory/Universal Set.md",
     "Set Theory/Venn Diagram.md",
     "Set Theory/Truthy Set.md",
-    "Set Theory/Set Theory.md",
-    "Set Theory/Disjoint set.md",
-    "Turing Machines/Co-Turing-Recognisable.md",
-    "Turing Machines/Decider.md",
-    "Turing Machines/Turing-Decidable.md",
-    "Turing Machines/Variants/Enumerator.md",
-    "Turing Machines/Turing-Recognisable.md",
-    "Graph Theory/Traversals/Closed.md",
-    "Turing Machines/Turing Machine.md",
-    "Formal Languages/Finite State Machines/Deterministic.md",
-    "Formal Languages/Kleene Star.md",
-    "Formal Languages/Regular Languages/Regular Expressions.md",
-    "Graph Theory/Bipartite Graph/Bipartite Graph.md",
     "Set Theory/Set Operators/Union Image.png",
     "Set Theory/Set Operators/Intersection Image.png",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
