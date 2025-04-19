@@ -2,7 +2,7 @@
 tags:
   - Example
 ---
-A _circuit_ is an [[Closed]] [[Walk]] in which no [[Edge|edges]] are repeated save for the terminating [[vertex]].
+A _circuit_ is an [[Graph Theory/Traversals/Closed]] [[Walk]] in which no [[Edge|edges]] are repeated save for the terminating [[vertex]].
 
 > [!example]
 > A _circuit_ starting at $A$ and finishing at $A$

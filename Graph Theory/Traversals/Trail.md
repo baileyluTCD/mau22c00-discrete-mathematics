@@ -85,7 +85,7 @@ $v = v_m$ and the [[trail]] is [[open]], hence if it is the last [[vertex]] and 
 > $v$ connects to one [[vertex]] only
 
 #### Case 4: 
-$v_0 = v = v_m$ In this case the [[trail]] must be a [[closed]] single [[vertex]] [[trail]]. Hence, it is not [[incident]] to anything, so it is **even**.
+$v_0 = v = v_m$ In this case the [[trail]] must be a [[Graph Theory/Traversals/Closed]] single [[vertex]] [[trail]]. Hence, it is not [[incident]] to anything, so it is **even**.
 
 > [!summary] Diagram
 > ```mermaid

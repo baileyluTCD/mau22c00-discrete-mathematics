@@ -1,0 +1,1 @@
+A [[set]] of [[Language|languages]] is said to be _closed_ if applying an operation such as $\cup$ or $\cap$ produces another [[Language|language]] in that same [[Set|set]].
