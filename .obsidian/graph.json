@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "degree",
+  "search": "power set",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -88,6 +88,6 @@
   "repelStrength": 12.4116424116424,
   "linkStrength": 1,
   "linkDistance": 122,
-  "scale": 2.213788566564894,
+  "scale": 0.6962708929566856,
   "close": false
 }

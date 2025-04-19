@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53382c4dbd74b85e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turing Machines/Turing-Decidable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Turing-Decidable"
-            }
-          },
-          {
             "id": "0c9221f89e7d3ca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turing Machines/Turing-Recognisable.md",
+                "file": "Turing Machines/Variants/Universal Turing Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turing-Recognisable"
+              "title": "Universal Turing Machine"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "countabl",
+                "query": "epsilo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5026054382324,
-    "collapsed": true
+    "width": 383.5026054382324
   },
   "right": {
     "id": "4228a63daf49f420",
@@ -191,36 +176,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53382c4dbd74b85e",
+  "active": "7b444c68e05e358b",
   "lastOpenFiles": [
-    "Turing Machines/Turing-Recognisable.md",
-    "Connectives/If and only if.md",
-    "Quantifiers/Universal Quantifier.md",
-    "Quantifiers/Quantifiers.md",
-    "Quantifiers/For one and only one Quantifier.md",
-    "Quantifiers/Existential Quantifier.md",
-    "Co-Turing-Recognisable.md",
-    "Turing Machines/Turing-Decidable.md",
-    "Undecidability.md",
-    "Turing Machines/Variants/Multi-type Turing Machine.md",
-    "Set Theory/Venn Diagram.md",
-    "Set Theory/Universal Set.md",
-    "Set Theory/Truthy Set.md",
-    "Set Theory/Set.md",
-    "Set Theory/Set Theory.md",
-    "Set Theory/Power Set.md",
-    "Set Theory/Object (Set Theory).md",
-    "Set Theory/Involution.md",
-    "Set Theory/Empty Set.md",
-    "Set Theory/Disjoint set.md",
-    "Set Theory/Cardinality.md",
-    "Set Theory/Set Operators/Union.md",
-    "Set Theory/Set Operators/Union Image.png",
-    "Set Theory/Set Operators/Subset.md",
+    "Formal Languages/Language.md",
+    "Formal Languages/Closed Language.md",
+    "Set Theory/Number Sets/Natural Numbers.md",
+    "Set Theory/Russel's Paradox.md",
+    "Turing Machines/Variants/Universal Turing Machine.md",
     "Set Theory/Set Operators/Intersection.md",
+    "Set Theory/Set Operators/Union.md",
+    "Set Theory/Set Operators/Subset.md",
+    "Set Theory/Set Operators/Involution.md",
+    "Set Theory/Set Operators/Cartesian Product.md",
+    "Set Theory/Universal Set.md",
+    "Set Theory/Venn Diagram.md",
+    "Set Theory/Truthy Set.md",
+    "Set Theory/Set Theory.md",
+    "Set Theory/Disjoint set.md",
+    "Turing Machines/Co-Turing-Recognisable.md",
+    "Turing Machines/Decider.md",
+    "Turing Machines/Turing-Decidable.md",
+    "Turing Machines/Variants/Enumerator.md",
+    "Turing Machines/Turing-Recognisable.md",
+    "Graph Theory/Traversals/Closed.md",
+    "Turing Machines/Turing Machine.md",
+    "Formal Languages/Finite State Machines/Deterministic.md",
+    "Formal Languages/Kleene Star.md",
+    "Formal Languages/Regular Languages/Regular Expressions.md",
+    "Graph Theory/Bipartite Graph/Bipartite Graph.md",
+    "Set Theory/Set Operators/Union Image.png",
     "Set Theory/Set Operators/Intersection Image.png",
-    "Set Theory/Set Operators/In.md",
-    "Set Theory/Set Operators/Compliment.md",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment B A.png",
     "Set Theory/Set Operators/Compliment Images/Compliment A B.png",
