@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb4c5972f925417",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c9221f89e7d3ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formal Languages/Grammar/Normal Regular Grammar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Normal Regular Grammar"
-            }
-          },
-          {
-            "id": "bb353722cbe00e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract Algebra/Homomorphism.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homomorphism"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "8e083565fae001a2",
         "type": "tabs",
         "children": [
@@ -48,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/Monoid.md",
-                "mode": "preview",
+                "file": "Relations/Relation Types/Reflexive Relation.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monoid"
+              "title": "Reflexive Relation"
             }
           },
           {
@@ -62,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Algebra/Monoid Homomorphism.md",
+                "file": "Graph Theory/Traversals/Eulerian/Eulerian Trail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monoid Homomorphism"
+              "title": "Eulerian Trail"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5026054382324
+    "width": 383.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "4228a63daf49f420",
@@ -226,11 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b444c68e05e358b",
+  "active": "fc534299518a8ffb",
   "lastOpenFiles": [
+    "Functions/Properties/Injective.md",
+    "Formal Languages/Regular Languages/Pumping Lemma.md",
     "Abstract Algebra/Monoid.md",
-    "Abstract Algebra/Monoid Homomorphism.md",
+    "Formal Languages/Grammar/Normal Regular Grammar.md",
+    "Formal Languages/Grammar/Context-Free Grammar.md",
+    "Graph Theory/Traversals/Hamiltonian/Hamiltonian Circuit.md",
     "Abstract Algebra/Homomorphism.md",
+    "Graph Theory/Traversals/Eulerian/Eulerian Trail.md",
+    "Graph Theory/Traversals/Path.md",
+    "Abstract Algebra/Monoid Homomorphism.md",
     "Set Theory/Number Sets/Natural Numbers.md",
     "Abstract Algebra/Identity Element.md",
     "Abstract Algebra/Group.md",
@@ -248,13 +220,6 @@
     "Turing Machines/Turing Machine Configuration Image.png",
     "Turing Machines/Turing Machine.md",
     "Turing Machines/Decider.md",
-    "Turing Machines/Co-Turing-Recognisable.md",
-    "Turing Machines/Variants/Universal Turing Machine.md",
-    "Turing Machines/Variants/Turing Machine Variants.md",
-    "Turing Machines/Variants/Stay Put Turing Machine.md",
-    "Turing Machines/Variants/Non-deterministic Turing Machine.md",
-    "Turing Machines/Variants/Multi-type Turing Machine.md",
-    "Turing Machines/Variants/Enumerator.md",
     "Set Theory/Set Operators/Union Image.png",
     "Set Theory/Set Operators/Intersection Image.png",
     "Set Theory/Set Operators/Compliment Images/Compliment Universe A.png",
