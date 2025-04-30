@@ -1,6 +1,8 @@
 ---
 tags:
   - Example
+aliases:
+  - Cycle
 ---
 A _circuit_ is an [[Graph Theory/Traversals/Closed]] [[Walk]] in which no [[Edge|edges]] are repeated save for the terminating [[vertex]].
 

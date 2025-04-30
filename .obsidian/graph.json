@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "power set",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -88,6 +88,6 @@
   "repelStrength": 12.4116424116424,
   "linkStrength": 1,
   "linkDistance": 122,
-  "scale": 0.6962708929566856,
+  "scale": 0.20145797591919148,
   "close": false
 }
